@@ -1,6 +1,6 @@
 # nuxeo-override-dublincore-schema
 
-Plugin overriding the `dubincore` schema in order to remove the field constraint on `dc:dublincore`.
+Plugin overriding the `dubincore` schema in order to remove the field constraint on `dc:description`.
 
 # Requirements
 
